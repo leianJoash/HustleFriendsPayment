@@ -823,7 +823,7 @@ video {
 }
 
 body {
-  background-image: url('HF.png');
+  background-image: url('/docs/HF.png');
   background-size: cover;
   background-position: center;
 }
