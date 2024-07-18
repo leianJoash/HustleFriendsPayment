@@ -828,6 +828,17 @@ body {
   background-position: center;
 }
 
+.sheet {
+  height: 110%;
+  width: 100%;
+  background: #00000084;
+  position: absolute;
+  overflow-y: hidden;
+
+
+}
+
+
 .fade-in {
   animation: fadeIn 1s ease-in-out;
 }
